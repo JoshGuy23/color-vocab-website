@@ -3,6 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C57B4415-B9CD-465A-B712-12207B57C4EB}"
+	ProjectSection(SolutionItems) = preProject
+		5.4 Color Vocab Project\goal.png = 5.4 Color Vocab Project\goal.png
+		5.4 Color Vocab Project\index.html = 5.4 Color Vocab Project\index.html
+		style.css = style.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
